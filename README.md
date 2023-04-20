@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="https://raw.githubusercontent.com/thedaviddias/Front-End-Checklist/master/data/images/logo-front-end-checklist.jpg" alt="Front-End Checklist" width="130">
+  <img src="https://github.com/hi6724/ssafy-db/raw/main/ssafy_logo.png" alt="ssafy logo" width="50%">
   <br>
     <br>
   SSAFY 프로젝트DB
@@ -10,23 +10,22 @@
 <p align="center">
   <em>SSAFY 프로젝트DB는 SSAFY(삼성 청년 SW아카데미)에서 진행한 프로젝트들을 모아둔 레포지토리 입니다.</em>
 </p>
+
+
+
+
 <p align="center">
-  <a href="http://makeapullrequest.com">
-    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome">
-  </a>
-    <a href="https://github.com/thedaviddias/Front-End-Checklist/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/thedaviddias/Front-End-Checklist.svg?style=flat-square" alt="Contributors">
-  </a>
-  <a href="https://github.com/thedaviddias/Front-End-Checklist/">
-    <img src="https://img.shields.io/badge/Front‑End_Checklist-followed-brightgreen.svg?style=flat-square" alt="Front‑End_Checklist followed">
-  </a>
-    <a href="https://creativecommons.org/publicdomain/zero/1.0/">
-    <img src="https://img.shields.io/badge/license-CC0-green.svg?style=flat-square" alt="CC0">
-  </a>
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/>
+    <img src="https://img.shields.io/github/contributors/hi6724/ssafy-db.svg?style=flat-square" alt="Contributors"/>
+    <img src="https://img.shields.io/badge/license-CC0-green.svg?style=flat-square" alt="CC0"/>
+    
+    
+    
+  
 </p>
 
 <p align="center">
-현재 데이터 추가중이며, 프로젝트를 추가하길 원하시는 분은 <a href="#contributing">Contributing</a>에 따라서 진행해 주시길 바랍니다.  
+프로젝트를 추가하길 원하시는 분은 <a href="#contributing">Contributing</a>에 따라서 진행해 주시길 바랍니다.  
 </p>
 
 
@@ -74,3 +73,9 @@
 ## Contributing
 
 
+## Contributors
+
+
+![GitHub Contributors Image](https://contrib.rocks/image?repo=hi6724/ssafy-db)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/hi6724/ssafy-db%2Fhit-counter&count_bg=%23047C5A&title_bg=%23DD3E59&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
