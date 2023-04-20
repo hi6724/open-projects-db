@@ -1,9 +1,44 @@
-# SSAFY DB
-SSAFY에서 수상한 프로젝트들을 정리한 레포지토리입니다.
+<h1 align="center">
+<br>
+  <img src="https://raw.githubusercontent.com/thedaviddias/Front-End-Checklist/master/data/images/logo-front-end-checklist.jpg" alt="Front-End Checklist" width="130">
+  <br>
+    <br>
+  SSAFY 프로젝트DB
+  <br>
+</h1>
+
+<p align="center">
+  <em>SSAFY 프로젝트DB는 SSAFY(삼성 청년 SW아카데미)에서 진행한 프로젝트들을 모아둔 레포지토리 입니다.</em>
+</p>
+<p align="center">
+  <a href="http://makeapullrequest.com">
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome">
+  </a>
+    <a href="https://github.com/thedaviddias/Front-End-Checklist/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/thedaviddias/Front-End-Checklist.svg?style=flat-square" alt="Contributors">
+  </a>
+  <a href="https://github.com/thedaviddias/Front-End-Checklist/">
+    <img src="https://img.shields.io/badge/Front‑End_Checklist-followed-brightgreen.svg?style=flat-square" alt="Front‑End_Checklist followed">
+  </a>
+    <a href="https://creativecommons.org/publicdomain/zero/1.0/">
+    <img src="https://img.shields.io/badge/license-CC0-green.svg?style=flat-square" alt="CC0">
+  </a>
+</p>
+
+<p align="center">
+현재 데이터 추가중이며, 프로젝트를 추가하길 원하시는 분은 <a href="#contributing">Contributing</a>에 따라서 진행해 주시길 바랍니다.  
+</p>
 
 
 
-## 공통프로젝트(1차 프로젝트 2023.01.09 ~ 2023.02.17)
+## 목차
+
+1. **[8th_공통프로젝트 ](#8th_공통프로젝트)**
+2. **[8th_특화프로젝트 ](#8th_특화프로젝트)**
+
+ 
+## 8th_공통프로젝트 
+기간 (1차 프로젝트 2023.01.09 ~ 2023.02.17)
 ### 최우수 프로젝트🥇
 <a href="https://github.com/GongHanul/YourDrinkingBuddy">술의 민족</a><br/>
 <a href="https://github.com/Color-the-rock/colortherock">Color the Rock</a><br/>
@@ -36,6 +71,6 @@ SSAFY에서 수상한 프로젝트들을 정리한 레포지토리입니다.
 <a href="https://github.com/noonmap/Tonnybunny">Tonnybunny - 실시간 통번역 및 매칭 플랫폼</a><br/>
 
 
-
+## Contributing
 
 
