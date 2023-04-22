@@ -81,6 +81,50 @@
 </a>
 </p>
 
+## 8th_특화프로젝트 
+기간 (2차 프로젝트 2023.02.27 ~ 2023.04.07)
+### 최우수 프로젝트🥇
+| Title | Description                                            | Link |
+|------------|-----------------------------------------------|-----------|
+| RecCar | 자동차 손상 관리 서비스 | [github](https://github.com/Woong1201/RecCar)  |
+| 야생의 직장인 | 지하철역 위치기반 실시간 매칭 게임 | [github](https://github.com/DevJyun/Wild-Worker)  |
+| Next Novel | 내가 그리고 AI가 써주는 소설 | [github](https://github.com/subin3277/NextNovel)  |
+| 캥 위 댄스 | 아이와 부모가 함께하는 율동체조 서비스 | [github](https://github.com/chanshin0/kang-we-dance-)  |
+| 돌봇 | 홈IoT 로봇을 이용한 독거 노인 돌봄 서비스 | [github](https://github.com/JeongMin-Kim96/Dolbot)  |
+| URIDA | 점점 증가하는 다문화 학생들을 위한 교육 앱 | [github](https://github.com/gun5046/urida)  |
+
+### 우수 프로젝트 🥈
+| Title | Description                                            | Link |
+|------------|-----------------------------------------------|-----------|
+| Gamemakase | 빅데이터를 기반으로 한 개인 맞춤형 스팀 게임 추천 서비스를 제공하는 종합 게임 커뮤니티 | [github](https://github.com/DooDoo3804/Gamemakase)  |
+| 디몽 | 아동 지능 발달을 위한 공룡 학습 어플리케이션 | [github](https://github.com/zer0eat/DiMong)  |
+| Bloomer | 텍스트 기반 감정 분석 일기 서비스 | [github](https://github.com/bohodays/Bloomer)  |
+| TooNBTI | 웹툰 취향 분석 테스트 | [github](https://github.com/No88888888/ToonBTI)  |
+| Gotcha! | 사진 1장으로 완성하는 AI 게임 서비스 | [github](https://github.com/GotchaAIGame/Gotcha)  |
+| doEng | 인공지능을 통한 영어 체험학습 | [github](https://github.com/Byongho96/doEng)  |
+| 술내음 | 사용자 맞춤 전통주 추천 서비스 | [github](https://github.com/SSAFY707/SULNAEEUM)  |
+| Whizzle | 개인 맞춤형 위스키 추천 서비스 | [github](https://github.com/JunHyxxn/Whizzle)  |
+| TedBear | 영어 말하기를 공부하는 사람들을 위해 탄생한 TED 강연 영상 추천 서비스 | [github](https://github.com/HMM-TERESTING/tedbear)  |
+| Whizzle | 개인 맞춤형 위스키 추천 서비스 | [github](https://github.com/JunHyxxn/Whizzle)  |
+| HE:RE | NFT 헌혈증서 플랫폼 | [github](https://github.com/Leeh9/HERE)  |
+| 똑켓 | 블록체인 NFT기반 티켓 서비스 똑똑한 티켓 | [github](https://github.com/HyeonIn/ttocket)  |
+| Co-cook | AI Cooking Copilot | [github](https://github.com/ysu6691/cocook)  |
+| 싸피물산 | 데이터를 시각화한 그래프를 통해 쉽게 보는 국가별 수출입 현황 및 기간 추세 | [github](https://github.com/Isak-toast/SSAFY-CNT)  |
+| O't MZ(옷엠지) |  AI를 활용하여 개인의 패션 스타일 성향을 파악하고 관련된 패션 스타일을 추천 | [github](https://github.com/ecofriendlyusername/ssafyotmz)  |
+| Co-cook | AI Cooking Copilot | [github](https://github.com/ysu6691/cocook)  |
+| Returnz | 게임형 주식 교육 서비스 | [github](https://github.com/ManduTheCat/returnz)  |
+| OMM (Oh My Match!) | 블록체인 기반 소개팅 웹 사이트💖 | [github](https://github.com/208Youth/OMM)  |
+| 모이다 | 야생동물과의 상생을 위한 기부를 받고 봉사를 신청 | [github](https://github.com/congmaru/Moida)  |
+| 러밋(Rumeet) | 함께 달리는 비대면 러닝 매칭 서비스 | [github](https://github.com/hojoJeong/Rumeet)  |
+| CAR-BORN | 블록체인을 활용한 중고차 거래 플랫폼 | [github](https://github.com/22JH/car-born-project)  |
+
+
+<p align="right">
+<a href="#목차">
+목차로⏫
+</a>
+</p>
+
 ## Contributing
 
 
