@@ -57,7 +57,7 @@
 | -------------------- | --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
 | Calm Wave            | Calm Wave                                     | [github](https://github.com/irang6v6/CALMWAVE)                                                                    |
 | MALICON              | MALICON                                       | [github](https://github.com/movebxeax/MyLittleConcert)                                                            |
-| .팡파레 (Pang!Party) | 일상을 축하하고 공유하는 소셜 플랫폼          | [github](https://github.com/nyong-nyong)                                                                          |
+| .팡파레 | 일상을 축하하고 공유하는 소셜 플랫폼          | [github](https://github.com/nyong-nyong)                                                                          |
 | Yuj                  | Enhance your Yoga Experience                  | [github](https://github.com/uyk1/Yuj)                                                                             |
 | Etjude               | 우리 모두의 연기 연습 커뮤니티                | [github](https://github.com/rlawldud335/Etjude)                                                                   |
 | Mindder              | Mindder                                       | [github](https://github.com/min0731/Mindder)                                                                      |
@@ -125,6 +125,13 @@
 </p>
 
 ## Contributing
+ **다음의 규칙을 지켜서 PR해주세요!**
+1. 제목, 설명, 링크 순으로 작성 해주세요.
+2. 설명은 50글자, 제목은 15글자 이내로 해주세요. (공백포함)
+3. 링크는 최대 3개까지만 등록 해주세요.
+4. 깃허브 링크는 public인지 확인 해주세요.
+5. 정상 배포중인 서비스 링크만 올려주세요. 
+
 
 ## Contributors
 
