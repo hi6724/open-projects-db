@@ -27,14 +27,16 @@
 
 ## 목차
 
-1. **[8th\_공통프로젝트 ](#8th_공통프로젝트)**
-2. **[8th\_특화프로젝트 ](#8th_특화프로젝트)**
-3. **[7th\_공통프로젝트 ](#8th_특화프로젝트)**
-4. **[7th\_특화프로젝트 ](#8th_특화프로젝트)**
+1. **[8기 공통프로젝트 ](#common_8)**
+2. **[8기 특화프로젝트 ](#special_8)**
+3. **[7기 공통프로젝트 ](#common_7)**
+4. **[7기 특화프로젝트 ](#special_7)**
 
-## 8th\_공통프로젝트
+<h1 align="center" id='common_8'>8기 공통프로젝트</h1>
 
+<p align="right">
 기간 (2023.01.09 ~ 2023.02.17)
+</p>
 
 ### 최우수 프로젝트🥇
 
@@ -52,6 +54,8 @@
 | METASSAFY      | 싸피 교육생들이 친분을 다질 수 있는 메타버스 프로젝트            | [github](https://github.com/jiwon199/METASSAFY)           |
 | fasulting      | SC-FEGAN 기반 온라인 성형 상담 플랫폼                            | [github](https://github.com/sungjeongeon/fasulting)       |
 | 냥그릇         | 길고양이와 도시의 공존을 위한 사회 공헌 서비스                   | [github](https://github.com/jaypakkorea/OurKitty)         |
+
+---
 
 ### 우수 프로젝트 🥈
 
@@ -76,16 +80,18 @@
 ### 그 외
 
 [Expandev](https://github.com/cloudsoswift/Expandev) , [Bundler](https://github.com/zer0eat/Bundler)
-
 <p align="right">
 <a href="#목차">
 목차로⏫
 </a>
 </p>
+<br/><br/><br/><br/><br/>
 
-## 8th\_특화프로젝트
+<h1 align="center" id='special_8'>8기 특화프로젝트</h1>
 
+<p align="right">
 기간 (2023.02.27 ~ 2023.04.07)
+</p>
 
 ### 최우수 프로젝트🥇
 
@@ -97,6 +103,8 @@
 | 캥 위 댄스    | 아이와 부모가 함께하는 율동체조 서비스     | [github](https://github.com/chanshin0/kang-we-dance-) |
 | 돌봇          | 홈IoT 로봇을 이용한 독거 노인 돌봄 서비스  | [github](https://github.com/JeongMin-Kim96/Dolbot)    |
 | URIDA         | 점점 증가하는 다문화 학생들을 위한 교육 앱 | [github](https://github.com/gun5046/urida)            |
+
+---
 
 ### 우수 프로젝트 🥈
 
@@ -132,10 +140,13 @@
 목차로⏫
 </a>
 </p>
+<br/><br/><br/><br/><br/>
 
-## 7th\_공통프로젝트
+<h1 align="center" id='common_7'>7기 공통프로젝트</h1>
 
+<p align="right">
 기간 (2022.07.11 ~ 2022.08.19)
+</p>
 
 ### 최우수 프로젝트🥇
 
@@ -145,6 +156,8 @@
 | RunWithMe | 비대면 러닝 챌린지 서비스                  | [github](https://github.com/HanYeop/RunWithMe) |
 | PhoRest   | 사진부스 프로젝트                          | [github](https://github.com/MoCCo329/PhoRest)  |
 
+---
+
 ### 우수 프로젝트 🥈
 
 | Title           | Description                                            | Link                                                       |
@@ -152,9 +165,18 @@
 | 같이집관        | 사람들과 같이 스포츠 경기를 응원할 수 있는 화상 서비스 | [github](https://github.com/Cheer-Together/Cheer-Together) |
 | 냉장고를 부탁해 | 냉장고를 관리, 재료에 적합한 레시피를 추천             | [github](https://github.com/JinJiyeon/iotHeyRefrigerator)  |
 
-## 7th\_특화프로젝트
+<p align="right">
+<a href="#목차">
+목차로⏫
+</a>
+</p>
+<br/><br/><br/><br/><br/>
 
+<h1 align="center" id='special_7'>7기 특화프로젝트</h1>
+
+<p align="right">
 기간 (2022.07.11 ~ 2022.08.19)
+</p>
 
 ### 최우수 프로젝트🥇
 
@@ -166,12 +188,21 @@
 | 가물가물      | 물가 정보 & 요리법 조회 서비스                                    | [github](https://github.com/avatime/gamul-gamul)                  |
 | 드림멍즈      | NFT 기반의 텍스트 어드벤처 게임                                   | [github](https://github.com/chu1214/Dreammungz)                   |
 
+---
+
 ### 우수 프로젝트 🥈
 
 | Title    | Description                                            | Link                                                       |
 | -------- | ------------------------------------------------------ | ---------------------------------------------------------- |
 | 🔥 위기탈출 1.0.1  | VR로 구현한 지하철 화재 상황 탈출 시뮬레이션 | [github](https://github.com/yewon129/CrisisEscape101) |
 | H&P | 빅데이터 기반 운동&영양제 추천 페이지 | [github](https://github.com/Cheer-Together/Cheer-Together) |
+
+<p align="right">
+<a href="#목차">
+목차로⏫
+</a>
+</p>
+<br/><br/><br/><br/><br/>
 
 ## Contributing
 
@@ -181,7 +212,7 @@
 2. 설명은 50글자, 제목은 15글자 이내로 해주세요. (공백포함)
 3. 링크는 최대 3개까지만 등록 해주세요.
 4. 깃허브 링크는 public인지 확인 해주세요.
-5. 수상하지 못한 프로젝트는 그외에 제목과 링크로 올려주세요.
+5. 수상하지 못한 프로젝트는 그외에 제목(혹은 설명)과 링크로 올려주세요.
 
 ## Contributors
 
