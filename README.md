@@ -71,6 +71,10 @@
 | 추노                 | 추노                                          | [github](https://github.com/lkc263/Chuno)                                                                         |
 | Tonnybunny           | 실시간 통번역 및 매칭 플랫폼                  | [github](https://github.com/noonmap/Tonnybunny)                                                                   |
 
+### 그 외
+
+[Expandev](https://github.com/cloudsoswift/Expandev) , [Bundler](https://github.com/zer0eat/Bundler) 
+
 <p align="right">
 <a href="#목차">
 목차로⏫
@@ -130,6 +134,7 @@
 2. 설명은 50글자, 제목은 15글자 이내로 해주세요. (공백포함)
 3. 링크는 최대 3개까지만 등록 해주세요.
 4. 깃허브 링크는 public인지 확인 해주세요.
+5. 수상하지 못한 프로젝트는 그외에 제목과 링크로 올려주세요.
 
 
 ## Contributors
