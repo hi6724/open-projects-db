@@ -154,7 +154,7 @@
 | ----------- | --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
 | Calm Wave   | Calm Wave                                     | [github](https://github.com/irang6v6/CALMWAVE)                                                                    |
 | MALICON     | MALICON                                       | [github](https://github.com/movebxeax/MyLittleConcert)                                                            |
-| .팡파레     | 일상을 축하하고 공유하는 소셜 플랫폼          | [github](https://github.com/nyong-nyong)                                                                          |
+| 팡파레     | 일상을 축하하고 공유하는 소셜 플랫폼          | [github](https://github.com/nyong-nyong)                                                                          |
 | Yuj         | Enhance your Yoga Experience                  | [github](https://github.com/uyk1/Yuj)                                                                             |
 | Etjude      | 우리 모두의 연기 연습 커뮤니티                | [github](https://github.com/rlawldud335/Etjude)                                                                   |
 | Mindder     | Mindder                                       | [github](https://github.com/min0731/Mindder)                                                                      |
