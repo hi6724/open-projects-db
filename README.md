@@ -66,17 +66,19 @@ PR은 아무렇게나 해주세요
 
 ---
 
-| Title                                     | Link                                                          |
-| ----------------------------------------- | ------------------------------------------------------------- |
-| 그런 REST API로 괜찮은가                  | https://www.youtube.com/watch?v=RP_f5dMoHFc                   |
-| react의 setState의 동작방식               | https://react-ko.dev/learn/state-as-a-snapshot                |
-| 고퀄리티⚡개발 컨텐츠 모음                | https://github.com/Integerous/goQuality-dev-contents          |
-| 초보자를 위한 기술면접                    | https://github.com/JaeYeopHan/Interview_Question_for_Beginner |
-| 취준생이 알아야 할 프론트엔드 지식들      | https://github.com/baeharam/Must-Know-About-Frontend          |
-| 유튜버 얄코의 디자인패턴 유튜브           | https://www.youtube.com/watch?v=lJES5TQTTWE                   |
-| 브라우저는 어떻게 동작하는가? (네이버 D2) | https://d2.naver.com/helloworld/59361                         |
-| JavaScript동작원리                        | https://www.youtube.com/watch?v=QFHyPInNhbo                   |
-| 프론트엔드 기술 면접 질문 모음            | https://velog.io/@hunmok1027/fe-interview-db                  |
+| Title                                | Link                                                |
+| ------------------------------------ | --------------------------------------------------- | ------------------------------------------------------------- |
+| Title                                | Description                                         | Link                                                          |
+| ------------------------------------ | --------------------------------------------------- | ------------------------------------------------------------- |
+| 그런 REST API로 괜찮은가             | REST API의 역사와 진정한 RESTful에 대한 고찰 유튜브 | https://www.youtube.com/watch?v=RP_f5dMoHFc                   |
+| setState는 비동기가 아니다           | react의 setState의 동작방식                         | https://react-ko.dev/learn/state-as-a-snapshot                |
+| 고퀄리티⚡개발 컨텐츠 모음           | 다양한 개발에 대한 지식들을 모아 둔 곳.             | https://github.com/Integerous/goQuality-dev-contents          |
+| 초보자를 위한 기술면접               | 면접 관련 질문들을 모아둔 곳.                       | https://github.com/JaeYeopHan/Interview_Question_for_Beginner |
+| 취준생이 알아야 할 프론트엔드 지식들 | 프론트엔드 분야의 기초지식                          | https://github.com/baeharam/Must-Know-About-Frontend          |
+| 디자인패턴                           | 유튜버 얄코의 디자인패턴 유튜브                     | https://www.youtube.com/watch?v=lJES5TQTTWE                   |
+| 브라우저는 어떻게 동작하는가?        | 브라우저의 기본적인 동작하는지 쓴 네이버 기술블로그 | https://d2.naver.com/helloworld/59361                         |
+| JavaScript동작원리                   | 이벤트루프, 콜스택, 비동기 등 JavaScript동작원리    | https://www.youtube.com/watch?v=QFHyPInNhbo                   |
+| 프론트엔드 기술 면접 질문 모음       | 직접 면접 다니면서 모은 기술면접 모음               | https://velog.io/@hunmok1027/fe-interview-db                  |
 
 <p align="right">
 <a href="#목차">
@@ -89,15 +91,17 @@ PR은 아무렇게나 해주세요
 
 ---
 
-| Title                                                                     | Description                           |
-| ------------------------------------------------------------------------- | ------------------------------------- |
-| [노마드코더](https://nomadcoders.co/community/portfolio)                  | 포트폴리오 올리는 게시판 입니다       |
-| [heeaepark](https://heeaepark.github.io/)                                 | VScode 스타일 포트폴리오              |
-| [hunmok](http://hunmok.shop/)                                             | React와 NotionAPI를 연동한 포트폴리오 |
-| [elvinaprasad](https://www.elvinaprasad.com/)                             | 깔끔한 디자인 & 스크롤애니메이션      |
-| [david](https://www.david-hckh.com/)                                      | 3D 애니메이션 깔끔함                  |
-| [bruno-simon](https://bruno-simon.com/)                                   | 3D 자동차로 달려다님                  |
-| [salvatorecasalino](https://www.salvatorecasalino.it/interactive-resume/) | 2D로 횡스크롤 포트폴리오              |
+| Title                                                                                        | Description                                         |
+| -------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| [그런 REST API로 괜찮은가](https://www.youtube.com/watch?v=RP_f5dMoHFc)                      | REST API의 역사와 진정한 RESTful에 대한 고찰 유튜브 |
+| [setState는 비동기가 아니다](https://react-ko.dev/learn/state-as-a-snapshot)                 | react의 setState의 동작방식                         |
+| [고퀄리티⚡개발 컨텐츠 모음](https://github.com/Integerous/goQuality-dev-contents)           | 다양한 개발에 대한 지식들을 모아 둔 곳.             |
+| [초보자를 위한 기술면접](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)      | 면접 관련 질문들을 모아둔 곳.                       |
+| [취준생이 알아야 할 프론트엔드 지식들](https://github.com/baeharam/Must-Know-About-Frontend) | 프론트엔드 분야의 기초지식                          |
+| [디자인패턴](https://www.youtube.com/watch?v=lJES5TQTTWE)                                    | 유튜버 얄코의 디자인패턴 유튜브                     |
+| [브라우저는 어떻게 동작하는가?](https://d2.naver.com/helloworld/59361)                       | 브라우저의 기본적인 동작하는지 쓴 네이버 기술블로그 |
+| [JavaScript동작원리](https://www.youtube.com/watch?v=QFHyPInNhbo)                            | 이벤트루프, 콜스택, 비동기 등 JavaScript동작원리    |
+| [프론트엔드 기술 면접 질문 모음](https://velog.io/@hunmok1027/fe-interview-db)               | 직접 면접 다니면서 모은 기술면접 모음               |
 
 <p align="right">
 <a href="#목차">
