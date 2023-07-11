@@ -13,28 +13,28 @@ PR은 아무렇게나 해주세요
 
 ## <h1 align="center" id='useful-site'>유용한 사이트 모음</h1>
 
-| Title          | Description                                | Link                                                                         |
-| -------------- | ------------------------------------------ | ---------------------------------------------------------------------------- |
-| freefrontend   | css어려운 사람들을 위한 예쁜 css모음사이트 | https://freefrontend.com/                                                    |
-| freshDesignweb | 예쁜 box-shadow 모음                       | https://getcssscan.com/css-box-shadow-examples?ref=beautifulbuttons-bottom   |
-| freshDesignweb | 예쁜 버튼 모음                             | https://getcssscan.com/css-buttons-examples?ref=beautifulboxshadow-bottom    |
-| freshDesignweb | 예쁜 체크박스 모음                         | https://getcssscan.com/css-checkboxes-examples?ref=beautifulboxshadow-bottom |
-| icons8         | 무료 아이콘                                | https://icons8.com/                                                          |
-| flaticon       | 아이콘 & 귀여운 스티커                     | https://www.flaticon.com/                                                    |
-| heroicons      | 무료 svg 아이콘(코드)                      | https://heroicons.dev/                                                       |
-| 눈누           | 다양한 무료 폰트 다운로드                  | https://noonnu.cc/                                                           |
-| sketchfab      | 다양한 3D 에셋들 구매사이트 (무료도 많음)  | https://sketchfab.com/                                                       |
-| Lottie         | 무료 gif & svg애니메이션 ex:로딩           | https://lottiefiles.com/                                                     |
-| Awwwards       | 다양한 웹사이트 구경                       | https://www.awwwards.com                                                     |
-| themeforest    | 웹디자인 피그마 템플릿 구매 사이트 (유료)  | https://themeforest.net/                                                     |
-| collectui      | 웹디자인 템플릿                            | https://collectui.com/                                                       |
-| dribbble       | 웹디자인 템플릿                            | https://dribbble.com/                                                        |
-| codecanyon     | 웹디자인 템플릿 or 스켈레톤코드 구매가능   | https://codecanyon.net/                                                      |
-| colorhunt      | 예쁜 색 팔레트 제공해주는 사이트           | https://colorhunt.co/                                                        |
-| everypixel     | heroImage 한번에 검색하는 곳               | https://www.everypixel.com/                                                  |
-| behance        | 여러 이미지, 디자인 구경하는 곳            | https://www.behance.net/                                                     |
-| openAPI 모음   | openAPI 모아져있는 레포                    | https://github.com/public-apis/public-apis                                   |
-| 로고만들기     | 로고만들어주는 사이트                      | https://www.shopify.com/tools/logo-maker                                     |
+| Title                                                                                          | Description                                |
+| ---------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| [freefrontend](https://freefrontend.com/)                                                      | css어려운 사람들을 위한 예쁜 css모음사이트 |
+| [freshDesignweb](https://getcssscan.com/css-box-shadow-examples?ref=beautifulbuttons-bottom)   | 예쁜 box-shadow 모음                       |
+| [freshDesignweb](https://getcssscan.com/css-buttons-examples?ref=beautifulboxshadow-bottom)    | 예쁜 버튼 모음                             |
+| [freshDesignweb](https://getcssscan.com/css-checkboxes-examples?ref=beautifulboxshadow-bottom) | 예쁜 체크박스 모음                         |
+| [icons8](https://icons8.com/)                                                                  | 무료 아이콘                                |
+| [flaticon](https://www.flaticon.com/)                                                          | 아이콘 & 귀여운 스티커                     |
+| [heroicons](https://heroicons.dev/)                                                            | 무료 svg 아이콘(코드)                      |
+| [눈누](https://noonnu.cc/)                                                                     | 다양한 무료 폰트 다운로드                  |
+| [sketchfab](https://sketchfab.com/)                                                            | 다양한 3D 에셋들 구매사이트 (무료도 많음)  |
+| [Lottie](https://lottiefiles.com/)                                                             | 무료 gif & svg애니메이션 ex:로딩           |
+| [Awwwards](https://www.awwwards.com)                                                           | 다양한 웹사이트 구경                       |
+| [themeforest](https://themeforest.net/)                                                        | 웹디자인 피그마 템플릿 구매 사이트 (유료)  |
+| [collectui](https://collectui.com/)                                                            | 웹디자인 템플릿                            |
+| [dribbble](https://dribbble.com/)                                                              | 웹디자인 템플릿                            |
+| [codecanyon](https://codecanyon.net/)                                                          | 웹디자인 템플릿 or 스켈레톤코드 구매가능   |
+| [colorhunt](https://colorhunt.co/)                                                             | 예쁜 색 팔레트 제공해주는 사이트           |
+| [everypixel](https://www.everypixel.com/)                                                      | heroImage 한번에 검색하는 곳               |
+| [behance](https://www.behance.net/)                                                            | 여러 이미지, 디자인 구경하는 곳            |
+| [openAPI 모음](https://github.com/public-apis/public-apis)                                     | openAPI 모아져있는 레포                    |
+| [로고만들기](https://www.shopify.com/tools/logo-maker)                                         | 로고만들어주는 사이트                      |
 
 <p align="right">
 <a href="#목차">
@@ -47,13 +47,13 @@ PR은 아무렇게나 해주세요
 
 ---
 
-| Title         | Description                               | Link                                   |
-| ------------- | ----------------------------------------- | -------------------------------------- |
-| 구름톤 전시관 | Kakao 구름톤 프로젝트 전시관              | https://9oormthon.goorm.io/collection  |
-| devfolio      | 사이드 프로젝트 모음 사이트               | https://devfolio.kr/                   |
-| 반응형웹 모음 | interactive web 들을 위주로 모아둔 사이트 | http://rwdb.kr/                        |
-| 서명생성기    | 교육지원금 서명 생성기                    | https://dydwkd486.github.io/ssafy-sign |
-| NOMADIC TRIBE | 프론트엔드가 갈려나간 프로젝트            | https://2019.makemepulse.com/          |
+| Title                                                  | Description                               |
+| ------------------------------------------------------ | ----------------------------------------- |
+| [구름톤 전시관](https://9oormthon.goorm.io/collection) | Kakao 구름톤 프로젝트 전시관              |
+| [devfolio](https://devfolio.kr/)                       | 사이드 프로젝트 모음 사이트               |
+| [반응형웹 모음](http://rwdb.kr/)                       | interactive web 들을 위주로 모아둔 사이트 |
+| [서명생성기](https://dydwkd486.github.io/ssafy-sign)   | 교육지원금 서명 생성기                    |
+| [NOMADIC TRIBE](https://2019.makemepulse.com/)         | 프론트엔드가 갈려나간 프로젝트            |
 
 <p align="right">
 <a href="#목차">
@@ -89,15 +89,15 @@ PR은 아무렇게나 해주세요
 
 ---
 
-| Title             | Description                           | Link                                                 |
-| ----------------- | ------------------------------------- | ---------------------------------------------------- |
-| 노마드코더 게시판 | 포트폴리오 올리는 게시판 입니다       | https://nomadcoders.co/community/portfolio           |
-| heeaepark         | VScode 스타일 포트폴리오              | https://heeaepark.github.io/                         |
-| hunmok            | React와 NotionAPI를 연동한 포트폴리오 | http://hunmok.shop/                                  |
-| elvinaprasad      | 깔끔한 디자인 & 스크롤애니메이션      | https://www.elvinaprasad.com/                        |
-| david             | 3D 애니메이션 깔끔함                  | https://www.david-hckh.com/                          |
-| bruno-simon       | 3D 자동차로 달려다님                  | https://bruno-simon.com/                             |
-| salvatorecasalino | 2D로 횡스크롤 포트폴리오              | https://www.salvatorecasalino.it/interactive-resume/ |
+| Title                                                                     | Description                           |
+| ------------------------------------------------------------------------- | ------------------------------------- |
+| [노마드코더](https://nomadcoders.co/community/portfolio)                  | 포트폴리오 올리는 게시판 입니다       |
+| [heeaepark](https://heeaepark.github.io/)                                 | VScode 스타일 포트폴리오              |
+| [hunmok](http://hunmok.shop/)                                             | React와 NotionAPI를 연동한 포트폴리오 |
+| [elvinaprasad](https://www.elvinaprasad.com/)                             | 깔끔한 디자인 & 스크롤애니메이션      |
+| [david](https://www.david-hckh.com/)                                      | 3D 애니메이션 깔끔함                  |
+| [bruno-simon](https://bruno-simon.com/)                                   | 3D 자동차로 달려다님                  |
+| [salvatorecasalino](https://www.salvatorecasalino.it/interactive-resume/) | 2D로 횡스크롤 포트폴리오              |
 
 <p align="right">
 <a href="#목차">
