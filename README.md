@@ -9,6 +9,7 @@ PR은 아무렇게나 해주세요
 - **[사이드 프로젝트 ](#side-projects)**
 - **[맛집 & 카페 ](#cafe)**
 - **[개발자 포트폴리오 ](#portfolio)**
+- **[CS면접대비용 ](#interview)**
 
 ## <h1 align="center" id='useful-site'>유용한 사이트 모음</h1>
 
@@ -61,15 +62,21 @@ PR은 아무렇게나 해주세요
 </p>
 <br/><br/><br/><br/><br/>
 
-## <h1 align="center" id='cafe'>맛집 & 카페</h1>
+## <h1 align="center" id='interview'>CS면접대비용</h1>
 
 ---
 
-| Title      | Description                 | Others                                                      |
-| ---------- | --------------------------- | ----------------------------------------------------------- |
-| 사계진미   | 숯불 닭갈비 무한리필 (강남) | 요금 추가하면 맥주 무한리필 가능, 구워먹는 닭갈비           |
-| 고갯마루   | 닭도리탕 맛집 (역삼)        | 예약 필수, 볶음밥 맛집                                      |
-| 두목닭갈비 | 철파 닭갈비 (역삼)          | 양 많음, 근데 또 그렇게 많지는 않음 1인분 = 1.4인 인분 정도 |
+| Title                                | Description                                         | Link                                                          |
+| ------------------------------------ | --------------------------------------------------- | ------------------------------------------------------------- |
+| 그런 REST API로 괜찮은가             | REST API의 역사와 진정한 RESTful에 대한 고찰 유튜브 | https://www.youtube.com/watch?v=RP_f5dMoHFc                   |
+| setState는 비동기가 아니다           | react의 setState의 동작방식                         | https://react-ko.dev/learn/state-as-a-snapshot                |
+| 고퀄리티⚡개발 컨텐츠 모음           | 다양한 개발에 대한 지식들을 모아 둔 곳.             | https://github.com/Integerous/goQuality-dev-contents          |
+| 초보자를 위한 기술면접               | 면접 관련 질문들을 모아둔 곳.                       | https://github.com/JaeYeopHan/Interview_Question_for_Beginner |
+| 취준생이 알아야 할 프론트엔드 지식들 | 프론트엔드 분야의 기초지식                          | https://github.com/baeharam/Must-Know-About-Frontend          |
+| 디자인패턴                           | 유튜버 얄코의 디자인패턴 유튜브                     | https://www.youtube.com/watch?v=lJES5TQTTWE                   |
+| 브라우저는 어떻게 동작하는가?        | 브라우저의 기본적인 동작하는지 쓴 네이버 기술블로그 | https://d2.naver.com/helloworld/59361                         |
+| JavaScript동작원리                   | 이벤트루프, 콜스택, 비동기 등 JavaScript동작원리    | https://www.youtube.com/watch?v=QFHyPInNhbo                   |
+| 프론트엔드 기술 면접 질문 모음       | 직접 면접 다니면서 모은 기술면접 모음               | https://velog.io/@hunmok1027/fe-interview-db                  |
 
 <p align="right">
 <a href="#목차">
@@ -91,6 +98,23 @@ PR은 아무렇게나 해주세요
 | david             | 3D 애니메이션 깔끔함                  | https://www.david-hckh.com/                          |
 | bruno-simon       | 3D 자동차로 달려다님                  | https://bruno-simon.com/                             |
 | salvatorecasalino | 2D로 횡스크롤 포트폴리오              | https://www.salvatorecasalino.it/interactive-resume/ |
+
+<p align="right">
+<a href="#목차">
+목차로⏫
+</a>
+</p>
+<br/><br/><br/><br/><br/>
+
+## <h1 align="center" id='cafe'>맛집 & 카페</h1>
+
+---
+
+| Title      | Description                 | Others                                                      |
+| ---------- | --------------------------- | ----------------------------------------------------------- |
+| 사계진미   | 숯불 닭갈비 무한리필 (강남) | 요금 추가하면 맥주 무한리필 가능, 구워먹는 닭갈비           |
+| 고갯마루   | 닭도리탕 맛집 (역삼)        | 예약 필수, 볶음밥 맛집                                      |
+| 두목닭갈비 | 철파 닭갈비 (역삼)          | 양 많음, 근데 또 그렇게 많지는 않음 1인분 = 1.4인 인분 정도 |
 
 <p align="right">
 <a href="#목차">
