@@ -3,8 +3,8 @@
 - **[유용한 사이트 모음 ](#useful-site)**
 - **[사이드 프로젝트 ](#side-projects)**
 - **[CS면접대비용 ](#interview)**
+- **[재밌는 사이트 모음 ](#fun)**
 - **[개발자 포트폴리오 ](#portfolio)**
-<!-- - **[맛집 & 카페 ](#cafe)** -->
 
 ## <h1 align="center" id='useful-site'>유용한 사이트 모음</h1>
 
@@ -75,6 +75,23 @@
 | [프론트엔드 기술 면접 질문 모음](https://velog.io/@hunmok1027/fe-interview-db)                                                | 직접 면접 다니면서 모은 기술면접 모음                     |
 | [Incremental DOM과 Virtual DOM 비교 (svelte와 React)](https://ui.toast.com/posts/ko_20210819)                                 | 스벨트와 리액트의 차이 \| toss 기술블로그                 |
 | [Virtual DOM을 사용하는 이유 (react는 느리다)](https://velog.io/@woohm402/virtual-dom-and-react)                              | 느린 속도에도 불구하고 react에서 virtualDOM을 선택한 이유 |
+| [setTimeout으로 코드 성능 최적화하기](https://www.youtube.com/watch?v=BhlX-NcIrDU)                                            | setTimeout을 사용해서 성능을 개선시키는 방법              |
+
+<p align="right">
+<a href="#목차">
+목차로⏫
+</a>
+</p>
+<br/><br/><br/><br/><br/>
+
+## <h1 align="center" id='fun'>재밌는 사이트 모음</h1>
+
+---
+
+| Title                                                              | Description                                     |
+| ------------------------------------------------------------------ | ----------------------------------------------- |
+| [What the f\*ck JavaScript?](https://github.com/denysdovhan/wtfjs) | javaScript의 이상한 문법들을 정리 한 깃허브     |
+| [JS is Weird](https://jsisweird.com/)                              | javaScript의 이상한 문법들로 퀴즈를 만든 사이트 |
 
 <p align="right">
 <a href="#목차">
@@ -100,23 +117,6 @@
 <p align="right">
 <a href="#목차">
 목차로⏫
-</a>
-</p>
-<br/><br/><br/><br/><br/>
-
-<!-- ## <h1 align="center" id='cafe'>맛집 & 카페</h1>
-
----
-
-| Title      | Description                 | Others                                                      |
-| ---------- | --------------------------- | ----------------------------------------------------------- |
-| 사계진미   | 숯불 닭갈비 무한리필 (강남) | 요금 추가하면 맥주 무한리필 가능, 구워먹는 닭갈비           |
-| 고갯마루   | 닭도리탕 맛집 (역삼)        | 예약 필수, 볶음밥 맛집                                      |
-| 두목닭갈비 | 철파 닭갈비 (역삼)          | 양 많음, 근데 또 그렇게 많지는 않음 1인분 = 1.4인 인분 정도 |
-
-<p align="right">
-<a href="#목차">
-목차로⏫ -->
 </a>
 </p>
 <br/><br/><br/><br/><br/>
