@@ -61,21 +61,24 @@
 
 ---
 
-| Title                                                                                                                         | Description                                               |
-| ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
-| [그런 REST API로 괜찮은가](https://www.youtube.com/watch?v=RP_f5dMoHFc)                                                       | REST API의 역사와 진정한 RESTful에 대한 고찰 유튜브       |
-| [setState는 비동기가 아니다](https://react-ko.dev/learn/state-as-a-snapshot)                                                  | react의 setState의 동작방식                               |
-| [심층 분석: React Hook은 실제로 어떻게 동작할까? ](https://hewonjeong.github.io/deep-dive-how-do-react-hooks-really-work-ko/) | setState와 useEffect의 동작방식 (번역글)                  |
-| [고퀄리티⚡개발 컨텐츠 모음](https://github.com/Integerous/goQuality-dev-contents)                                            | 다양한 개발에 대한 지식들을 모아 둔 곳.                   |
-| [초보자를 위한 기술면접](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)                                       | 면접 관련 질문들을 모아둔 곳.                             |
-| [취준생이 알아야 할 프론트엔드 지식들](https://github.com/baeharam/Must-Know-About-Frontend)                                  | 프론트엔드 분야의 기초지식                                |
-| [디자인패턴](https://www.youtube.com/watch?v=lJES5TQTTWE)                                                                     | 유튜버 얄코의 디자인패턴 유튜브                           |
-| [브라우저는 어떻게 동작하는가?](https://d2.naver.com/helloworld/59361)                                                        | 브라우저의 기본적인 동작방식 \| 네이버 기술블로그         |
-| [JavaScript동작원리](https://www.youtube.com/watch?v=QFHyPInNhbo)                                                             | 이벤트루프, 콜스택, 비동기 등 JavaScript동작원리          |
-| [프론트엔드 기술 면접 질문 모음](https://velog.io/@hunmok1027/fe-interview-db)                                                | 직접 면접 다니면서 모은 기술면접 모음                     |
-| [Incremental DOM과 Virtual DOM 비교 (svelte와 React)](https://ui.toast.com/posts/ko_20210819)                                 | 스벨트와 리액트의 차이 \| toss 기술블로그                 |
-| [Virtual DOM을 사용하는 이유 (react는 느리다)](https://velog.io/@woohm402/virtual-dom-and-react)                              | 느린 속도에도 불구하고 react에서 virtualDOM을 선택한 이유 |
-| [setTimeout으로 코드 성능 최적화하기](https://www.youtube.com/watch?v=BhlX-NcIrDU)                                            | setTimeout을 사용해서 성능을 개선시키는 방법              |
+| Title                                                                                                                                                  | Description                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------- |
+| [그런 REST API로 괜찮은가](https://www.youtube.com/watch?v=RP_f5dMoHFc)                                                                                | REST API의 역사와 진정한 RESTful에 대한 고찰 유튜브            |
+| [setState는 비동기가 아니다](https://react-ko.dev/learn/state-as-a-snapshot)                                                                           | react의 setState의 동작방식                                    |
+| [심층 분석: React Hook은 실제로 어떻게 동작할까? ](https://hewonjeong.github.io/deep-dive-how-do-react-hooks-really-work-ko/)                          | setState와 useEffect의 동작방식 (번역글)                       |
+| [고퀄리티⚡개발 컨텐츠 모음](https://github.com/Integerous/goQuality-dev-contents)                                                                     | 다양한 개발에 대한 지식들을 모아 둔 곳.                        |
+| [초보자를 위한 기술면접](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)                                                                | 면접 관련 질문들을 모아둔 곳.                                  |
+| [취준생이 알아야 할 프론트엔드 지식들](https://github.com/baeharam/Must-Know-About-Frontend)                                                           | 프론트엔드 분야의 기초지식                                     |
+| [디자인패턴](https://www.youtube.com/watch?v=lJES5TQTTWE)                                                                                              | 유튜버 얄코의 디자인패턴 유튜브                                |
+| [브라우저는 어떻게 동작하는가?](https://d2.naver.com/helloworld/59361)                                                                                 | 브라우저의 기본적인 동작방식 \| 네이버 기술블로그              |
+| [JavaScript동작원리](https://www.youtube.com/watch?v=QFHyPInNhbo)                                                                                      | 이벤트루프, 콜스택, 비동기 등 JavaScript동작원리               |
+| [프론트엔드 기술 면접 질문 모음](https://velog.io/@hunmok1027/fe-interview-db)                                                                         | 직접 면접 다니면서 모은 기술면접 모음                          |
+| [Incremental DOM과 Virtual DOM 비교 (svelte와 React)](https://ui.toast.com/posts/ko_20210819)                                                          | 스벨트와 리액트의 차이 \| toss 기술블로그                      |
+| [Virtual DOM을 사용하는 이유 (react는 느리다)](https://velog.io/@woohm402/virtual-dom-and-react)                                                       | 느린 속도에도 불구하고 react에서 virtualDOM을 선택한 이유      |
+| [setTimeout으로 코드 성능 최적화하기](https://www.youtube.com/watch?v=BhlX-NcIrDU)                                                                     | setTimeout을 사용해서 성능을 개선시키는 방법                   |
+| [왜 TypeScript는 void 타입을 사용해도 값을 return 할 수 있을까?](https://pozafly.github.io/typescript/why-can-typescript-return-any-value-using-void/) | 왜 TypeScript는 void 타입을 사용해도 값을 return 할 수 있을까? |
+| [clean-code-javascript](https://github.com/qkraudghgh/clean-code-javascript-ko)                                                                        | javascript에서 클린코드를 작성하는 팁                          |
+| [Naming cheatsheet](https://github.com/kettanaito/naming-cheatsheet)                                                                                   | 좋은 변수명을 짓는 방법                                        |
 
 <p align="right">
 <a href="#목차">
